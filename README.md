@@ -1,16 +1,45 @@
-## Hi there 👋
+# Alexandre TOTO 🚀
+**AI/ML Engineer | Software Engineer AI**
+*Building scalable data pipelines and intelligent systems with Python, LLMs, and modern AI tools.*
 
-<!--
-**Alexweb97/alexweb97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 🔹 About Me
+I design **RGPD-compliant AI/ML systems** and **modular data pipelines** (ETL/ELT) for scalable, efficient data processing. My focus is on **open-source solutions** (ChromaDB, Llama) and **low-code architectures** to democratize AI access.
 
-Here are some ideas to get you started:
+- 🧠 **Expertise**: AI/ML Engineering, Data Pipelines, Software Architecture
+- 💻 **Tech Stack**: Python, ChromaDB, LLMs, FastAPI, React, dbt, Pandas, PySpark
+- 🌍 **Based in**: France (UTC+1)
+- 📫 **Contact**: [LinkedIn](https://linkedin.com/in/tonprofil) | [Email](mailto:alexandretoto.dev@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🛠️ Core Skills
+| **Domain**          | **Technologies**                          |
+|---------------------|------------------------------------------|
+| **AI/ML**           | LLMs (Llama), LangChain, RAG, ChromaDB    |
+| **Data Pipelines**  | ETL/ELT, Apache Airflow, dbt, Pandas     |
+| **Backend**         | FastAPI, PostgreSQL, Python              |
+| **Frontend**        | React, TypeScript                         |
+| **DevOps**          | Docker, GitHub Actions                   |
+
+---
+## 📊 GitHub Stats
+![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexWeb97&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexWeb97&layout=compact&theme=dark)
+
+---
+## 🔗 Featured Projects
+🔹 **[ETL Pipeline Builder](https://github.com/AlexWeb97/etl-pipeline-builder)**
+*A low-code tool for designing modular ETL/ELT pipelines with drag-and-drop.*
+
+🔹 **[RGPD-Compliant AI Chatbot](https://github.com/AlexWeb97/rgpd-chatbot)**
+*A Llama-based chatbot with local data storage for RGPD compliance.*
+
+---
+## 🌟 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonprofil)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tonprofil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandretoto.dev@gmail.com)
+
+---
+> *"Turning data into intelligent systems, one pipeline at a time."* 🛠️
+
