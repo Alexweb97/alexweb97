@@ -16,10 +16,11 @@ I design **RGPD-compliant AI/ML systems** and **modular data pipelines** (ETL/EL
 | **Domain**          | **Technologies**                          |
 |---------------------|------------------------------------------|
 | **AI/ML**           | LLMs (Llama), LangChain, RAG, ChromaDB    |
-| **Data Pipelines**  | ETL/ELT, Apache Airflow, dbt, Pandas     |
+| **Data Pipelines**  | ETL/ELT, Apache Airflow, dbt, Pandas, Polars     |
 | **Backend**         | FastAPI, PostgreSQL, Python              |
 | **Frontend**        | React, TypeScript                         |
 | **DevOps**          | Docker, GitHub Actions                   |
+| **Cloud**           | GCP                                      |
 
 ---
 ## 📊 GitHub Stats
