@@ -29,11 +29,8 @@ I design **RGPD-compliant AI/ML systems** and **modular data pipelines** (ETL/EL
 
 ---
 ## 🔗 Featured Projects
-🔹 **[ETL Pipeline Builder](https://github.com/AlexWeb97/etl-pipeline-builder)**
+🔹 **[ETL Pipeline Builder](https://github.com/Alexweb97/pipeline-buider-ai)**
 *A low-code tool for designing modular ETL/ELT pipelines with drag-and-drop.*
-
-🔹 **[RGPD-Compliant AI Chatbot](https://github.com/AlexWeb97/rgpd-chatbot)**
-*A Llama-based chatbot with local data storage for RGPD compliance.*
 
 ---
 ## 🌟 Let's Connect!
