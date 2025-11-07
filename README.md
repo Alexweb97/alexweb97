@@ -9,7 +9,7 @@ I design **RGPD-compliant AI/ML systems** and **modular data pipelines** (ETL/EL
 - 🧠 **Expertise**: AI/ML Engineering, Data Pipelines, Software Architecture
 - 💻 **Tech Stack**: Python, ChromaDB, LLMs, FastAPI, React, dbt, Pandas, PySpark
 - 🌍 **Based in**: France (UTC+1)
-- 📫 **Contact**: [LinkedIn](https://linkedin.com/in/tonprofil) | [Email](mailto:alexandretoto.dev@gmail.com)
+- 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/alexandre-toto-data/) | [Email](mailto:alexandretoto.dev@gmail.com)
 
 ---
 ## 🛠️ Core Skills
@@ -36,8 +36,7 @@ I design **RGPD-compliant AI/ML systems** and **modular data pipelines** (ETL/EL
 
 ---
 ## 🌟 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonprofil)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tonprofil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-toto-data/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandretoto.dev@gmail.com)
 
 ---
